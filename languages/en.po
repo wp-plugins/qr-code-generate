@@ -1,0 +1,25 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2015-03-16 16:43-0300\n"
+"PO-Revision-Date: 2015-03-16 16:45-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: C:\\wamp\\www\\projetos\\wp-content\\plugins\\qr-generate-"
+"link\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: qr-generate-link.php:33
+msgid "Donwload File"
+msgstr "Donwload File"
+
+#: qr-generate-link.php:76
+msgid "Change for QR Code"
+msgstr "Change for QR Code"

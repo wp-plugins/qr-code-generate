@@ -29,4 +29,4 @@ Upgrade notices :
 == Changelog ==
 
 = 1.0.0 =
-* Essa È a primeira vers„o
+* Essa √© a primeira vers√£o

@@ -17,7 +17,7 @@ Gere Codigos QR de Maneira muito facil.
 
 == Description ==
 
-Com o Qr Code Generate, você gera codigos qr no seu post de maneira muito facil, apenas pressionando um botão no editor do post.
+Com o Qr Code Generate, vocÃª gera codigos qr no seu post de maneira muito facil, apenas pressionando um botÃ£o no editor do post.
 
 == Installation ==
 

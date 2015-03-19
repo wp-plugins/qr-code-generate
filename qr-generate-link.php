@@ -57,11 +57,16 @@ function qr_generate_link_page_callback() {
 		<p>Plugin criado por <a href="hrrp://nativamultimidia.com.br">Nativa Muitimidia</a>, desenvolvedor Danilo Pastor</p>
 		<p>Este plugin esta sendo distribuido de forma gratuíta se você comprou por favor avise-nos <a href="mailto:danilopastor@nativamultimidia.com.br">danilopastor@nativamultimidia.com.br</a></p>
 	    <h2>Doação</h2>
-		<p>Se você gostou deste plugin, ajude a continuar desenvolvendo e melhorando faça uma doaçao na conta abaixo.</p>
+		<p>Se você gostou deste plugin, ajude a continuar desenvolvendo e melhorando faça uma doaçao para nós.</p>
 		</br>
-		<p>Agência: <b>3138</b> - Caixa Economica Federal</p>
-		<p>Conta Poupança: <b>39821-8</b></p>
-		<p>Operação: <b>013</b></p>
+		<!-- INICIO FORMULARIO BOTAO PAGSEGURO -->
+<form action="https://pagseguro.uol.com.br/checkout/v2/donation.html" method="post">
+<!-- NÃO EDITE OS COMANDOS DAS LINHAS ABAIXO -->
+<input type="hidden" name="currency" value="BRL" />
+<input type="hidden" name="receiverEmail" value="yguinhos@hotmail.com" />
+<input type="image" src="https://p.simg.uol.com.br/out/pagseguro/i/botoes/doacoes/120x53-doar.gif" name="submit" alt="Pague com PagSeguro - é rápido, grátis e seguro!" />
+</form>
+<!-- FINAL FORMULARIO BOTAO PAGSEGURO -->
 		</br>
 		<p>Desde já ficamos muito grato pela sua doação</p>
 	</div>';

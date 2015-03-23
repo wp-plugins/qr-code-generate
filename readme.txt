@@ -19,6 +19,8 @@ Gere Codigos QR de Maneira muito facil.
 
 Com o Qr Code Generate, você gera codigos qr no seu post de maneira muito facil, apenas pressionando um botão no editor do post.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D11mwoWCTAc" frameborder="0" allowfullscreen></iframe>
+
 == Installation ==
 
 Instale como todo plugin wordpress
